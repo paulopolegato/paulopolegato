@@ -1,5 +1,4 @@
-## Hi there 👋
-# Paulo Polegato
+## Hi there 👋 I'm Paulo Polegato,
 
 Physicist, engineer, and PhD researcher with academic training in Brazil and France, working at the intersection of AI/ML, systems engineering, robotics, and biomedical data analysis.
 
